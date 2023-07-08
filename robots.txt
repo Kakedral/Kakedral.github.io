@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Kakedral.github.io/sitemap.xml
